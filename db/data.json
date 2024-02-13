@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "slug": "post1",
+      "title": "Blog Post 1",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae aspernatur at ipsam ad ipsa fugit tempora praesentium asperiores facilis quas commodi doloribus dolores, cumque amet neque natus! Pariatur, veniam quidem?",
+      "imageUrl": "https://images.pexels.com/photos/11517781/pexels-photo-11517781.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+      "updatedAt": "2024-02-15T09:15:27+00:00"
+    },
+    {
+      "id": 2,
+      "slug": "post2",
+      "title": "Blog Post 2",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae aspernatur at ipsam ad ipsa fugit tempora praesentium asperiores facilis quas commodi doloribus dolores, cumque amet neque natus! Pariatur, veniam quidem?",
+      "imageUrl": "https://images.pexels.com/photos/19422011/pexels-photo-19422011/free-photo-of-swan-on-the-riverbank-stretching-its-neck-to-a-ray-of-sunlight-breaking-through-the-tree-branches.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+      "updatedAt": "2024-02-16T07:08:12+00:00"
+    },
+    {
+      "id": 3,
+      "slug": "post3",
+      "title": "Blog Post 3",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae aspernatur at ipsam ad ipsa fugit tempora praesentium asperiores facilis quas commodi doloribus dolores, cumque amet neque natus! Pariatur, veniam quidem?",
+      "imageUrl": "https://images.pexels.com/photos/15820908/pexels-photo-15820908/free-photo-of-palm-trees-on-sea-shore.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+      "updatedAt": "2024-02-24T15:21:38+00:00"
+    }
+  ]
+}

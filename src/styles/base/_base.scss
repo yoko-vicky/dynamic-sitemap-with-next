@@ -1,0 +1,35 @@
+html {
+  font-size: 62.5%; // 10px
+}
+
+body {
+  font-family: var(--font-family-regular), sans-serif;
+  font-size: var(--font-size-regular);
+  line-height: var(--line-height-regular);
+  color: #020202;
+  letter-spacing: var(--letter-spacing-default);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  position: relative;
+}
+
+button,
+a {
+  user-select: none;
+}
+
+img {
+  object-fit: contain;
+  height: auto;
+}
+
+.container {
+  max-width: 80rem;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.center {
+  text-align: center;
+}
