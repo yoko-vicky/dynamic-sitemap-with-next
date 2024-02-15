@@ -1,40 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Dynamic Sitemap on Next.js Pages Router
 
-## Getting Started
+This is an example of adding sitemap to next.js app router project.
 
-First, run the development server:
+## Built With
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Next.js
+- TypeScript
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to run app
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+1. Run `npm run serve`
+2. Open another terminal window, and run `npm run dev`
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. Open [http://localhost:3000/sitemap.xml](http://localhost:3000/sitemap.xml) to view sitemap in the browser.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Available Scripts
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+In the project directory, you can run:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### `npm run dev`
 
-## Learn More
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-To learn more about Next.js, take a look at the following resources:
+### `npm run serve`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Runs json-server.\
+Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Author
 
-## Deploy on Vercel
+👤 **Yoko Saka**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- GitHub: [@yocosaka](https://github.com/yoko-vicky)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoko-vicky/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+## Acknowledgements
+
+- [sitemap](https://www.npmjs.com/package/sitemap)
