@@ -32,7 +32,7 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 👤 **Yoko Saka**
 
-- GitHub: [@yocosaka](https://github.com/yoko-vicky)
+- GitHub: [Github](https://github.com/yoko-vicky)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yoko-vicky/)
 
 ## Show your support
