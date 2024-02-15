@@ -1,6 +1,6 @@
 # Dynamic Sitemap on Next.js Pages Router
 
-This is an example of adding sitemap to next.js app router project.
+This is an example of adding a sitemap to next.js app router project.
 
 ## Built With
 
